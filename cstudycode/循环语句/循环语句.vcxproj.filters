@@ -21,5 +21,11 @@
     <ClCompile Include="while循环.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="for和while的区别.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="for循环的变型.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
