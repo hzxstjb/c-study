@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{97BDA16D-D092-452D-9764-3604BE07B107}</ProjectGuid>
+    <ProjectGuid>{5713DE02-436E-493F-B5AE-47A7EEB90392}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>选择语句</RootNamespace>
+    <RootNamespace>打印语句</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -142,10 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="if条件语句.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="swich选择语句.c" />
+    <ClCompile Include="printf语句.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

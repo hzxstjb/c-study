@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "选择语句", "选择语�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "循环语句", "循环语句\循环语句.vcxproj", "{927B57F7-DB64-4392-AD42-33476B89125B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "打印语句", "打印语句\打印语句.vcxproj", "{5713DE02-436E-493F-B5AE-47A7EEB90392}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{927B57F7-DB64-4392-AD42-33476B89125B}.Release|x64.Build.0 = Release|x64
 		{927B57F7-DB64-4392-AD42-33476B89125B}.Release|x86.ActiveCfg = Release|Win32
 		{927B57F7-DB64-4392-AD42-33476B89125B}.Release|x86.Build.0 = Release|Win32
+		{5713DE02-436E-493F-B5AE-47A7EEB90392}.Debug|x64.ActiveCfg = Debug|x64
+		{5713DE02-436E-493F-B5AE-47A7EEB90392}.Debug|x64.Build.0 = Debug|x64
+		{5713DE02-436E-493F-B5AE-47A7EEB90392}.Debug|x86.ActiveCfg = Debug|Win32
+		{5713DE02-436E-493F-B5AE-47A7EEB90392}.Debug|x86.Build.0 = Debug|Win32
+		{5713DE02-436E-493F-B5AE-47A7EEB90392}.Release|x64.ActiveCfg = Release|x64
+		{5713DE02-436E-493F-B5AE-47A7EEB90392}.Release|x64.Build.0 = Release|x64
+		{5713DE02-436E-493F-B5AE-47A7EEB90392}.Release|x86.ActiveCfg = Release|Win32
+		{5713DE02-436E-493F-B5AE-47A7EEB90392}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
