@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "选择语句", "选择语句\选择语句.vcxproj", "{97BDA16D-D092-452D-9764-3604BE07B107}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "循环语句", "循环语句\循环语句.vcxproj", "{927B57F7-DB64-4392-AD42-33476B89125B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{97BDA16D-D092-452D-9764-3604BE07B107}.Release|x64.Build.0 = Release|x64
 		{97BDA16D-D092-452D-9764-3604BE07B107}.Release|x86.ActiveCfg = Release|Win32
 		{97BDA16D-D092-452D-9764-3604BE07B107}.Release|x86.Build.0 = Release|Win32
+		{927B57F7-DB64-4392-AD42-33476B89125B}.Debug|x64.ActiveCfg = Debug|x64
+		{927B57F7-DB64-4392-AD42-33476B89125B}.Debug|x64.Build.0 = Debug|x64
+		{927B57F7-DB64-4392-AD42-33476B89125B}.Debug|x86.ActiveCfg = Debug|Win32
+		{927B57F7-DB64-4392-AD42-33476B89125B}.Debug|x86.Build.0 = Debug|Win32
+		{927B57F7-DB64-4392-AD42-33476B89125B}.Release|x64.ActiveCfg = Release|x64
+		{927B57F7-DB64-4392-AD42-33476B89125B}.Release|x64.Build.0 = Release|x64
+		{927B57F7-DB64-4392-AD42-33476B89125B}.Release|x86.ActiveCfg = Release|Win32
+		{927B57F7-DB64-4392-AD42-33476B89125B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
