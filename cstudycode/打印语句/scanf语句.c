@@ -6,6 +6,7 @@
 
 int main(void) {
 
+	
 	int age = 0;
 	char name[10] = { 0 };
 	printf("请输入你的姓名\n");
@@ -14,6 +15,5 @@ int main(void) {
 	scanf("%d", &age);
 
 	printf("你的名字叫:%s, 你的年龄:%d\n", name, age);
-	getchar();
 	return 0;
 }
