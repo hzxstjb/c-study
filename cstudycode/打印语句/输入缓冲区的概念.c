@@ -38,7 +38,7 @@ int main(void) {
 	printf("请输入密码:\n");
 	scanf("%s", password);
 	printf("请确认你的输入(Y/N)?\n");
-	// 完美解决
+	// 完美解决:先用循环的方式不断读取缓存区中所有剩余的内容
 	while (getchar() != '\n') {
 		;
 	}
