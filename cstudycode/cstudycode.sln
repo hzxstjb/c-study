@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "打印语句", "打印语�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数据类型", "数据类型\数据类型.vcxproj", "{555512E0-8A26-4970-BAEF-C458AEB6D498}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数组类型", "数组类型\数组类型.vcxproj", "{9F05DDD2-B462-412E-A599-85600FC207EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{555512E0-8A26-4970-BAEF-C458AEB6D498}.Release|x64.Build.0 = Release|x64
 		{555512E0-8A26-4970-BAEF-C458AEB6D498}.Release|x86.ActiveCfg = Release|Win32
 		{555512E0-8A26-4970-BAEF-C458AEB6D498}.Release|x86.Build.0 = Release|Win32
+		{9F05DDD2-B462-412E-A599-85600FC207EF}.Debug|x64.ActiveCfg = Debug|x64
+		{9F05DDD2-B462-412E-A599-85600FC207EF}.Debug|x64.Build.0 = Debug|x64
+		{9F05DDD2-B462-412E-A599-85600FC207EF}.Debug|x86.ActiveCfg = Debug|Win32
+		{9F05DDD2-B462-412E-A599-85600FC207EF}.Debug|x86.Build.0 = Debug|Win32
+		{9F05DDD2-B462-412E-A599-85600FC207EF}.Release|x64.ActiveCfg = Release|x64
+		{9F05DDD2-B462-412E-A599-85600FC207EF}.Release|x64.Build.0 = Release|x64
+		{9F05DDD2-B462-412E-A599-85600FC207EF}.Release|x86.ActiveCfg = Release|Win32
+		{9F05DDD2-B462-412E-A599-85600FC207EF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
