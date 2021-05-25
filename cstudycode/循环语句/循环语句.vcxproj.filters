@@ -27,7 +27,10 @@
     <ClCompile Include="for循环的变型.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="循环练习.c">
+    <ClCompile Include="循环练习2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="循环练习1.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
