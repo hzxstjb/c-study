@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="函数.c">
+    <ClCompile Include="函数1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数2.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
