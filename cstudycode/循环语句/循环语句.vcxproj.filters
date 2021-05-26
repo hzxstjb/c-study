@@ -33,5 +33,8 @@
     <ClCompile Include="循环练习1.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="循环联系3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

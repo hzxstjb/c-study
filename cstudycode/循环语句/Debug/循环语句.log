@@ -1,3 +1,5 @@
-﻿  循环练习2.c
-  循环语句.vcxproj -> C:\Users\karls\Desktop\cproject\c-study\cstudycode\Debug\循环语句.exe
-  循环语句.vcxproj -> C:\Users\karls\Desktop\cproject\c-study\cstudycode\Debug\循环语句.pdb (Full PDB)
+﻿  循环联系3.c
+c:\users\tangjianbo\documents\github\c-study\cstudycode\循环语句\循环联系3.c(15): warning C4133: “函数”: 从“int [6]”到“const char *”的类型不兼容
+c:\users\tangjianbo\documents\github\c-study\cstudycode\循环语句\循环联系3.c(14): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+  循环语句.vcxproj -> C:\Users\TangJianBo\Documents\GitHub\c-study\cstudycode\Debug\循环语句.exe
+  循环语句.vcxproj -> C:\Users\TangJianBo\Documents\GitHub\c-study\cstudycode\Debug\循环语句.pdb (Full PDB)
