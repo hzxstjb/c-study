@@ -45,6 +45,12 @@
     <ClCompile Include="函数调用.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="函数递归.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="调归练习.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="demo.h">
