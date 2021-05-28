@@ -2,6 +2,7 @@
 
 #include <stdio.h>
 #include <math.h>
+// 素数的概念:指除了1和它本身以外,不能被任何整数整除的数
 //int isPrimer(int n) {
 //	int i = 0;
 //	for (i = 2; i < n; i++) {
@@ -28,7 +29,7 @@ int main(void) {
 
 	int num = 0;
 	for (num = 100; num <= 200; num++) {
-		if (isPrimer(num) == 1) {
+		if (isPrimer(num)==1) {
 			printf("%d\n", num);
 		}
 	}
