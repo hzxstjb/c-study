@@ -48,7 +48,10 @@
     <ClCompile Include="函数递归.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="调归练习.c">
+    <ClCompile Include="递归练习.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="递归实例.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
