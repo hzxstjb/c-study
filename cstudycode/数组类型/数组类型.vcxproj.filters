@@ -36,5 +36,8 @@
     <ClCompile Include="数组3.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="三子棋.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
