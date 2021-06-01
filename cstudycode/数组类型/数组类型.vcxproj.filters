@@ -30,5 +30,11 @@
     <ClCompile Include="数组2.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="冒泡排序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
