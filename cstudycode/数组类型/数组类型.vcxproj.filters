@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="数组.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="二维数组.c">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -25,6 +22,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="二分查找.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组2.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

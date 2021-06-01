@@ -1,4 +1,4 @@
-﻿  二分查找.c
-  LINK : 没有找到 C:\Users\karls\Desktop\cproject\c-study\cstudycode\Debug\数组类型.exe 或上一个增量链接没有生成它；正在执行完全链接
+﻿  数组2.c
+c:\users\karls\desktop\cproject\c-study\cstudycode\数组类型\数组2.c(14): warning C4101: “arr4”: 未引用的局部变量
   数组类型.vcxproj -> C:\Users\karls\Desktop\cproject\c-study\cstudycode\Debug\数组类型.exe
   数组类型.vcxproj -> C:\Users\karls\Desktop\cproject\c-study\cstudycode\Debug\数组类型.pdb (Full PDB)

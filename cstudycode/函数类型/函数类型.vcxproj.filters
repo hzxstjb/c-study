@@ -54,6 +54,9 @@
     <ClCompile Include="递归实例.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="汉诺塔.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="demo.h">
