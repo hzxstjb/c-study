@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "结构体类型", "结构�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "函数类型", "函数类型\函数类型.vcxproj", "{59D7961A-6DB3-499F-A709-0AB18DAC6F0F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "指针类型", "指针类型\指针类型.vcxproj", "{711DE540-F555-4409-8BB4-FC56E5D35653}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{59D7961A-6DB3-499F-A709-0AB18DAC6F0F}.Release|x64.Build.0 = Release|x64
 		{59D7961A-6DB3-499F-A709-0AB18DAC6F0F}.Release|x86.ActiveCfg = Release|Win32
 		{59D7961A-6DB3-499F-A709-0AB18DAC6F0F}.Release|x86.Build.0 = Release|Win32
+		{711DE540-F555-4409-8BB4-FC56E5D35653}.Debug|x64.ActiveCfg = Debug|x64
+		{711DE540-F555-4409-8BB4-FC56E5D35653}.Debug|x64.Build.0 = Debug|x64
+		{711DE540-F555-4409-8BB4-FC56E5D35653}.Debug|x86.ActiveCfg = Debug|Win32
+		{711DE540-F555-4409-8BB4-FC56E5D35653}.Debug|x86.Build.0 = Debug|Win32
+		{711DE540-F555-4409-8BB4-FC56E5D35653}.Release|x64.ActiveCfg = Release|x64
+		{711DE540-F555-4409-8BB4-FC56E5D35653}.Release|x64.Build.0 = Release|x64
+		{711DE540-F555-4409-8BB4-FC56E5D35653}.Release|x86.ActiveCfg = Release|Win32
+		{711DE540-F555-4409-8BB4-FC56E5D35653}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
