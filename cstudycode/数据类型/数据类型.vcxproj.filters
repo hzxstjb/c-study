@@ -30,5 +30,11 @@
     <ClCompile Include="数制练习.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="类型转换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="运算操作.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
