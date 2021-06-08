@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="结构体.c">
+    <ClCompile Include="结构体1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体2.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
