@@ -38,8 +38,18 @@
 //}
 
 // 版本5
+//#include <assert.h>
+//void my_strcpy(char* des, char* src) {
+//	assert(des != NULL);
+//	assert(src != NULL);
+//	while (*des++ = *src++) {	// 利用字符串'\n'的ASC码为0来实现
+//		;
+//	}
+//}
+
+// 版本6
 #include <assert.h>
-void my_strcpy(char* des, char* src) {
+void my_strcpy(char* des, const char* src) {
 	assert(des != NULL);
 	assert(src != NULL);
 	while (*des++ = *src++) {	// 利用字符串'\n'的ASC码为0来实现
